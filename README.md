@@ -1,1 +1,1 @@
-# jokesGenerator
+# jokeGenerator
